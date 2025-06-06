@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yashig5224
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning ai/ml,data science
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach me connect me with linkedIn https://www.linkedin.com/in/yashi-gupta-790709314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - 😄 Pronouns: she/her
