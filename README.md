@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @yashig5224
-- 👀 I’m interested in learning new things
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on various projects
-- 📫 How to reach me connect me with linkedIn https://www.linkedin.com/in/yashi-gupta-790709314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I love sketching and crafting
+# 👋 Hi there, I'm Yashi Gupta (@yashig5224)
 
-<!---
-yashig5224/yashig5224 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate and curious Computer Engineering student who loves exploring the world of **web development** and **creative design**.
+
+## 💡 About Me
+- 👀 Always eager to learn and explore new technologies.
+- 🌱 Currently learning full-stack **web development** (HTML, CSS, JavaScript, and beyond).
+- 💞️ Open to collaborating on **web projects**, **design innovations**, and **community-driven ideas**.
+- ⚡ Fun fact: I enjoy **sketching** and **crafting** during my creative downtime.
+- 😄 Pronouns: *She/Her*
+
+## 📫 Let’s Connect
+- 🔗 [LinkedIn](https://www.linkedin.com/in/yashi-gupta-790709314) — Feel free to connect or message me there!
+
