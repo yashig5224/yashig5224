@@ -4,10 +4,7 @@
 
 <div align="center">
 
-✨ Crafting immersive digital experiences  
-🤖 Building AI-powered applications  
-🎨 Creating modern & aesthetic interfaces  
-🚀 Turning innovative ideas into impactful products  
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Experiences+✨;AI+Powered+Solutions+🤖;Creating+Immersive+UI%2FUX+🎨;Always+Learning+New+Things+🚀"/>
 
 </div>
 
@@ -16,36 +13,117 @@
 <div align="center">
 
 <a href="https://yashi-gupta.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/yashiiiguptaaa" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/yashig5224" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:yashigupta2202@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-<div align="center">
+<img align="right" alt="Coding" width="330" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+SaaS+Builder;Modern+UI%2FUX+Designer;Always+Learning+New+Things+🚀"/>
+# 👨‍💻 About Me
+
+<div align="left">
+
+```yaml
+Name: Yashi Gupta
+Role: Full Stack Developer
+Specialization: MERN Stack + AI Applications
+Experience: Building modern & scalable web apps
+Passion: Designing immersive user experiences
+Current Focus: SaaS • AI • Modern Frontend
+```
 
 </div>
+
+<br>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 What I Do
+
+- ✨ Create aesthetic & modern UI/UX
+- 🤖 Build AI-powered applications
+- 🌐 Develop scalable full stack apps
+- 📱 Craft responsive user experiences
+- ⚡ Build real-world SaaS products
+- 🎯 Transform ideas into impactful solutions
+
+</td>
+
+<td width="50%">
+
+### 🌱 Currently Exploring
+
+- 🧠 Advanced AI Integrations
+- ☁️ Cloud & Deployment
+- 🏗️ System Design
+- 🔥 Performance Optimization
+- 🎨 Advanced Animations
+- 🚀 Startup Product Development
+
+</td>
+</tr>
+</table>
+
+<br clear="both"/>
+
+---
+
+# ⚡ Developer Snapshot
+
+<div align="center">
+
+| 💻 Tech Focus | 🚀 Interests | 🎯 Goal |
+|:---:|:---:|:---:|
+| MERN Stack Development | AI & SaaS Products | Building impactful products |
+| Modern UI/UX | Startup Innovation | Becoming industry ready |
+| Responsive Web Apps | Automation & AI | Solving real-world problems |
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashig5224&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashig5224&layout=compact&theme=tokyonight&hide_border=true&border_radius=20"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yashig5224&theme=tokyonight&hide_border=true&border_radius=20"/>
+
+</div>
+
+---
 
 # 🚀 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,python,html,css,tailwind,firebase,git,github,figma,vscode,npm,yarn,redux,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,python,html,css,tailwind,firebase,git,github,figma,vscode,redux,postman,npm,yarn&theme=dark"/>
 
 </div>
 
@@ -56,111 +134,112 @@
 <div align="center">
 
 <table>
+
 <tr>
 <td align="center" width="110">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/>
-<br>JavaScript
+<br><strong>JavaScript</strong>
 </td>
 
 <td align="center" width="110">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55"/>
-<br>TypeScript
+<br><strong>TypeScript</strong>
 </td>
 
 <td align="center" width="110">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55"/>
-<br>React
+<br><strong>React</strong>
 </td>
 
 <td align="center" width="110">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="55"/>
-<br>Next.js
+<br><strong>Next.js</strong>
 </td>
 
 <td align="center" width="110">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55"/>
-<br>Node.js
+<br><strong>Node.js</strong>
 </td>
 </tr>
 
 <tr>
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="55"/>
-<br>Express
+<br><strong>Express</strong>
 </td>
 
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55"/>
-<br>MongoDB
+<br><strong>MongoDB</strong>
 </td>
 
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
-<br>Python
+<br><strong>Python</strong>
 </td>
 
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55"/>
-<br>HTML5
+<br><strong>HTML5</strong>
 </td>
 
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55"/>
-<br>CSS3
+<br><strong>CSS3</strong>
 </td>
 </tr>
 
 <tr>
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="55"/>
-<br>Tailwind
+<br><strong>Tailwind</strong>
 </td>
 
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="55"/>
-<br>Firebase
+<br><strong>Firebase</strong>
 </td>
 
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/>
-<br>Git
+<br><strong>Git</strong>
 </td>
 
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/>
-<br>GitHub
+<br><strong>GitHub</strong>
 </td>
 
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55"/>
-<br>Figma
+<br><strong>Figma</strong>
 </td>
 </tr>
 
 <tr>
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="55"/>
-<br>Redux
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="55"/>
-<br>NPM
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="55"/>
-<br>Yarn
+<br><strong>Redux</strong>
 </td>
 
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="55"/>
-<br>Postman
+<br><strong>Postman</strong>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="55"/>
+<br><strong>NPM</strong>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="55"/>
+<br><strong>Yarn</strong>
 </td>
 
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55"/>
-<br>VS Code
+<br><strong>VS Code</strong>
 </td>
 </tr>
 
@@ -168,14 +247,38 @@
 
 </div>
 
-<img align="right" height="240" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"/>
+---
 
-# 👨‍💻 About Me
+# 🌐 Connect With Me
 
-```yaml
-Name: Yashi Gupta
-Role: Full Stack Developer
-Tech Stack: MERN + AI + Modern Frontend
-Currently Learning: Advanced AI & System Design
-Passion: Building futuristic and scalable products
-Goal: Creating impactful tech experiences 🚀
+<div align="center">
+
+<a href="https://yashi-gupta.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/🌐_Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/yashiiiguptaaa" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/yashig5224" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:yashigupta2202@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img height="240" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
+
+</div>
+
+---
+
+<h2 align="center">✨ Code • Create • Innovate ✨</h2>
