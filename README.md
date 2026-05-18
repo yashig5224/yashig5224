@@ -227,6 +227,8 @@ Current Focus: SaaS • AI • Modern Frontend
 
 </div>
 
----
+---<div align="center">
 
-<h2 align="center">✨ Code • Create • Innovate ✨</h2>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=✨+Code+•+Create+•+Innovate+✨;🚀+Build+The+Future+With+Code;🎨+Design+Modern+Experiences;🤖+Transforming+Ideas+Into+Reality"/>
+
+</div>
