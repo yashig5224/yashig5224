@@ -50,7 +50,7 @@ Current Focus: SaaS • AI • Modern Frontend
 </div>
 
 <br>
-
+<br>
 ---
 
 ---
