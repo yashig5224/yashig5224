@@ -34,7 +34,7 @@
 
 <img align="right" alt="Coding" width="330" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
-# 👨‍💻 About Me
+# About Me
 
 <div align="left">
 
@@ -51,63 +51,13 @@ Current Focus: SaaS • AI • Modern Frontend
 
 <br>
 
-<table>
-<tr>
-<td width="50%">
-
-### 🚀 What I Do
-
-- ✨ Create aesthetic & modern UI/UX
-- 🤖 Build AI-powered applications
-- 🌐 Develop scalable full stack apps
-- 📱 Craft responsive user experiences
-- ⚡ Build real-world SaaS products
-- 🎯 Transform ideas into impactful solutions
-
-</td>
-
-<td width="50%">
-
-### 🌱 Currently Exploring
-
-- 🧠 Advanced AI Integrations
-- ☁️ Cloud & Deployment
-- 🏗️ System Design
-- 🔥 Performance Optimization
-- 🎨 Advanced Animations
-- 🚀 Startup Product Development
-
-</td>
-</tr>
-</table>
-
 <br clear="both"/>
 
 ---
 
-# ⚡ Developer Snapshot
-
-<div align="center">
-
-| 💻 Tech Focus | 🚀 Interests | 🎯 Goal |
-|:---:|:---:|:---:|
-| MERN Stack Development | AI & SaaS Products | Building impactful products |
-| Modern UI/UX | Startup Innovation | Becoming industry ready |
-| Responsive Web Apps | Automation & AI | Solving real-world problems |
-
-</div>
-
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashig5224&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashig5224&layout=compact&theme=tokyonight&hide_border=true&border_radius=20"/>
-
-</div>
+# GitHub Analytics
 
 <br>
 
@@ -119,7 +69,7 @@ Current Focus: SaaS • AI • Modern Frontend
 
 ---
 
-# 🚀 Tech Stack
+#  Tech Stack
 
 <div align="center">
 
@@ -129,7 +79,7 @@ Current Focus: SaaS • AI • Modern Frontend
 
 ---
 
-# 🛠️ Technologies & Tools
+#  Technologies & Tools
 
 <div align="center">
 
