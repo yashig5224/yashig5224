@@ -33,10 +33,7 @@
 ---
 <br>
 <img align="right" alt="Coding" width="330" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
-<br>
-
 # About Me
-
 ```yaml
 Name: Yashi Gupta
 Role: Full Stack Developer
@@ -46,11 +43,10 @@ Focus: SaaS • AI • Scalable Web Apps
 Learning: Advanced AI Integrations & Cloud
 Goal: Building impactful digital products 🚀
 ```
-
 </div>
 
 <br>
-<br>
+
 ---
 
 ---
