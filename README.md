@@ -36,9 +36,8 @@
 <br>
 
 # About Me
-
+```
 <div align="left">
-
 Name: Yashi Gupta
 Role: Full Stack Developer
 Specialization: MERN Stack + AI Applications
