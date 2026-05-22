@@ -36,14 +36,15 @@
 <br>
 
 # About Me
-```
-<div align="left">
+
+```yaml
 Name: Yashi Gupta
 Role: Full Stack Developer
 Specialization: MERN Stack + AI Applications
-Experience: Building modern & scalable web apps
-Passion: Designing immersive user experiences
-Current Focus: SaaS • AI • Modern Frontend
+Passion: Crafting immersive UI/UX experiences
+Focus: SaaS • AI • Scalable Web Apps
+Learning: Advanced AI Integrations & Cloud
+Goal: Building impactful digital products 🚀
 ```
 
 </div>
