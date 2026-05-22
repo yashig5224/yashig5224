@@ -1,4 +1,4 @@
-<h1 align="center"> Hey there!I'm Yashi Gupta ✨</h1>
+<h1 align="center"> Hey there!I'm Yashi Gupta </h1>
 
 <h3 align="center">
 Full Stack Developer • AI Enthusiast • MERN Stack Developer
@@ -45,6 +45,7 @@ Full Stack Developer • AI Enthusiast • MERN Stack Developer
 ---
 
 <br>
+<br>
 
 <img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
@@ -59,6 +60,8 @@ Focus: SaaS • AI • Scalable Web Apps
 Learning: Advanced AI Integrations & Cloud
 Goal: Building impactful digital products 🚀
 ```
+<br>
+<br>
 ---
 
 # Tech Stack
