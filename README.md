@@ -22,7 +22,7 @@ Full Stack Developer • AI Enthusiast • MERN Stack Developer
 
 <div align="center">
 
-<a href="https://yashi-ashy.vercel.app/" target="_blank">
+<a href="https://yashigupta.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -222,7 +222,7 @@ Goal: Building impactful digital products 🚀
 
 <div align="center">
 
-<a href="https://yashi-ashy.vercel.app/" target="_blank">
+<a href="https://yashigupta.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/_Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
