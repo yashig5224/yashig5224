@@ -39,7 +39,6 @@
 
 <div align="left">
 
-```yaml
 Name: Yashi Gupta
 Role: Full Stack Developer
 Specialization: MERN Stack + AI Applications
