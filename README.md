@@ -47,7 +47,7 @@ Full Stack Developer • AI Enthusiast • MERN Stack Developer
 <br>
 <br>
 
-<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
+<img align="right" alt="Coding" width="260" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
 # About Me
 
@@ -60,9 +60,9 @@ Focus: SaaS • AI • Scalable Web Apps
 Learning: Advanced AI Integrations & Cloud
 Goal: Building impactful digital products 🚀
 ```
+<br>
+
 ---
-<br>
-<br>
 
 # Tech Stack
 
@@ -134,9 +134,8 @@ Goal: Building impactful digital products 🚀
 </td>
 </tr>
 
-<tr>
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="60"/>
+<img src="https://skillicons.dev/icons?i=tailwind" width="60"/>
 <br><strong>Tailwind CSS</strong>
 </td>
 
