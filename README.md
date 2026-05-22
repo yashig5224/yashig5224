@@ -38,8 +38,6 @@ Full Stack Developer • AI Enthusiast • MERN Stack Developer
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=yashig5224&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
-
 </div>
 
 ---
