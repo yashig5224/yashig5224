@@ -194,8 +194,6 @@ Goal: Building impactful digital products 🚀
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yashig5224&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20"/>
-
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashig5224&theme=tokyonight&hide_border=true&border_radius=20"/>
 
 </div>
@@ -209,12 +207,6 @@ Goal: Building impactful digital products 🚀
 </div>
 
 <br>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yashig5224&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
 
 ---
 
