@@ -5,18 +5,12 @@ Full Stack Developer • AI Enthusiast • MERN Stack Developer
 </h3>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=2800&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Building+Modern+Web+Experiences+;AI+Powered+Solutions+;Creating+Immersive+UI%2FUX+;Always+Learning+New+Things+;Crafting+Beautiful+Digital+Products+"/>
-</div>
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF69B4&height=240&section=header&text=Welcome%20To%20My%20GitHub&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"/>
 </div>
 
 ---
 <br>
-<img align="right" alt="Coding" width="260" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
+<img align="right" alt="Coding" width="260" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
 # About Me
 
@@ -161,9 +155,6 @@ Goal: Building impactful digital products
 
 <br>
 
----
-
-# LeetCode Analytics
 
 <div align="center">
 
@@ -202,7 +193,7 @@ Goal: Building impactful digital products
 ---
 
 <div align="center">
-<img height="260" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
+<img height="260" src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/371756374-0bf134e2-c0ba-488b-bbd4-9300f2f77871.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260608%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260608T050605Z&X-Amz-Expires=300&X-Amz-Signature=5f1ba62c1bea50787329ed77068c270bdab298057dd505d8521ee169019bd29f&X-Amz-SignedHeaders=host&response-content-type=image%2Fgif"/>
 </div>
 
 
