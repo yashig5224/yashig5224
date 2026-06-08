@@ -171,7 +171,30 @@ Goal: Building impactful digital products
 <br>
 
 ---
+---
+---
 
+# LeetCode Analytics
+
+<div align="center">
+
+<img width="49%" src="https://leetcard.jacoblin.cool/Yashiii_gupta22?theme=dark&font=Poppins&ext=heatmap"/>
+
+<img width="49%" src="https://leetcode.card.workers.dev/Yashiii_gupta22?theme=dark"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=Yashiii_gupta22&theme=dark"/>
+
+</div>
+
+---
+
+---
 # Connect With Me
 <div align="center">
 <a href="https://yashigupta.vercel.app/" target="_blank">
