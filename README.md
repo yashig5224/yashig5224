@@ -33,14 +33,6 @@ Goal: Building impactful digital products
 
 ---
 
-# Tech Stack
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,python,html,css,tailwind,firebase,git,github,redux,figma,vscode,postman,npm,yarn&theme=dark"/>
-</div>
-
----
-
 # Technologies & Tools
 
 <div align="center">
@@ -153,7 +145,6 @@ Goal: Building impactful digital products
 </tr>
 </table>
 </div>
-
 ---
 
 # GitHub Analytics
