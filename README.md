@@ -205,11 +205,6 @@ Goal: Building impactful digital products
 <img height="260" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
 </div>
 
----
-
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=+Code+•+Create+•+Innovate+;+Build+The+Future+With+Code;+Design+Modern+Experiences;+Transforming+Ideas+Into+Reality;+Dream+Big+Build+Bigger"/>
-</div>
 
 ---
 
