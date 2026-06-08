@@ -171,8 +171,6 @@ Goal: Building impactful digital products
 <br>
 
 ---
----
----
 
 # LeetCode Analytics
 
@@ -180,19 +178,15 @@ Goal: Building impactful digital products
 
 <img width="49%" src="https://leetcard.jacoblin.cool/Yashiii_gupta22?theme=dark&font=Poppins&ext=heatmap"/>
 
-<img width="49%" src="https://leetcode.card.workers.dev/Yashiii_gupta22?theme=dark"/>
-
 </div>
 
 <br>
 
 <div align="center">
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=Yashiii_gupta22&theme=dark"/>
+<img src="https://img.shields.io/badge/LeetCode-68%20Problems%20Solved-orange?style=for-the-badge&logo=leetcode"/>
 
 </div>
-
----
 
 ---
 # Connect With Me
