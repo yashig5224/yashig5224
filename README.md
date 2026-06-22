@@ -164,11 +164,6 @@ Goal: Building impactful digital products
 
 <br>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/LeetCode-68%20Problems%20Solved-orange?style=for-the-badge&logo=leetcode"/>
-
-</div>
 
 ---
 # Connect With Me
