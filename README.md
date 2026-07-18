@@ -144,8 +144,7 @@ Goal: Building impactful digital products
 # GitHub Analytics
 
 <div align="center">
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashig5224&theme=tokyonight&hide_border=true&border_radius=20"/>
-</div>
+<img width="49%" src="https://streak-stats.demolab.com?user=yashig5224&theme=tokyonight&hide_border=true&border_radius=20"/></div>
 
 <br>
 
@@ -161,6 +160,7 @@ Goal: Building impactful digital products
 <img width="49%" src="https://leetcard.jacoblin.cool/Yashiii_gupta22?theme=dark&font=Poppins&ext=heatmap"/>
 
 </div>
+
 
 <br>
 
